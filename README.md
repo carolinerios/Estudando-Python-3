@@ -1,2 +1,3 @@
 # Estudando Python 3
- Repositório criado para inserção de exercícios de programação em Python 3
+ Este repositório foi criado para compartilhar exercícios de programação em Python 3
+ 
