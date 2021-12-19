@@ -1,4 +1,4 @@
-som_pre = c_prod = 0
+som_pre = c_prod = c = 0
 while True:
     nom_prod =  str(input('Qual o produto o comprado? '))
     pre_prod = float(input('Qual o preço do produto ocmprado? '))
